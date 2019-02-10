@@ -7,14 +7,14 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ## [Unreleased]
 ### Changed
 - 
-## v0.0.2 - 2019-02-10
+## [0.0.2] - 2019-02-10
 ### Added
 - CHANGELOG.MD
 - Seetings.xml 
 ### Changed
 -  README.MD
 
-## 0.0.1 - 2018-10-13
+## [0.0.1] - 2018-10-13
 ### Added
 - Create repository on github. 
 
